@@ -18,25 +18,21 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./design/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/ZohirB-dev/Testimonial-Grid.git)
+- Live Site URL: [Live Site](https://zohirb-dev.github.io/Testimonial-Grid/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Tailwind CSS
 - CSS Grid
 - Mobile-first workflow
-
-
-
 
 ## Author
 
